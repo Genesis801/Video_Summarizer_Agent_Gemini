@@ -1,0 +1,7 @@
+phidata
+streamlit
+duckduckgo-search
+google-generativeai
+python-dotenv
+google-genai
+youtube-transcript-api
